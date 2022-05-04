@@ -5,6 +5,11 @@ Hero styles
 .hero-body {
     padding-top: 6rem;
     padding-bottom: 6rem;
+    .title-container {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+    }
     .title, .subtitle {
         font-family: 'Open Sans', sans-serif;
     }

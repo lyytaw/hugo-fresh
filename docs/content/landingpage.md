@@ -16,7 +16,7 @@ Define the logo of the navigation bar in the upper left corner.
 
 ```yaml
 navbarlogo:
- image: logos/fresh.svg # Logo (from static/images/logos/)
+ image: logos/netgoblin.svg # Logo (from static/images/logos/)
  link: /
 ```
 
